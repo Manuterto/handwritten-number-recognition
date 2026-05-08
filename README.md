@@ -1,5 +1,5 @@
 # handwritten-number-recognition
-A Machine Learning project that recognizes handwritten numbers from 1 to 9 using image classification techniques.
+A Machine Learning project that recognizes handwritten numbers from 0 to 9 using image classification techniques.
 
 This project was created as a collaborative study project to explore:
 
@@ -29,3 +29,4 @@ The model receives an image containing a handwritten number and predicts which d
 
 
 
+pinguim gunther
